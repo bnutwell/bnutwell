@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bnutwell
 - 👀 Interested in data science, business analytics, and mobility innovation.  (Also playing and recording music, writing science fiction, and driving too fast.)
 - 🌱 I’m enrolled in the Georgia Tech Master of Analytics program, graduating August 2023
+    (...after working in automobile R&D for 25+ years)
 - 💞️ Open to collaborate with people applying data science to real world problems, especially in the mobility industry
 - 📫 I'm @Bnutwell on Twitter, also on LinkedIn \briannutwell
 
